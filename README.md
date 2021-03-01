@@ -13,6 +13,12 @@ I'm developing some project, but i love working with my friends.
 ## 📫 How to reach me
 Discord: CerberuS#9198
 
+### IDEs
+
+<img align="left" alt="VS Code" width="30px"
+src=""/>
+<img align="left" alt="Visual Studio 2019" width="30px"
+src=""/>
 <!--
 
 Here are some ideas to get you started:
