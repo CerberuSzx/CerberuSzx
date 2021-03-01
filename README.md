@@ -14,7 +14,7 @@ I'm developing some projects, but i love working with my friends.
 Discord: CerberuS#9198
 
 ### IDEs
-[Visual Studio Code]
+
 <code><img height="65" src="https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/85bce21202020aa02287b81f23b69fed012fa51b/31/s.svg"></code>
 
 <!--
