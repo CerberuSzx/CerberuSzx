@@ -8,7 +8,7 @@ I'm developing some project, but i love working with my friends.
 ## 📚 Interested
 
 <code><img height="65" src="https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/c593aca2cd1ef5fb9d286c154ddf4342c963e0b2/31/cpp.svg"></code>
-
+<code><img height="65" src=https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/main/31/js.png"></code>
 
 ## 📫 How to reach me
 Discord: CerberuS#9198
