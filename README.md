@@ -2,7 +2,7 @@
 
 ## About me
 Hello I'm CerberuS.
-I'm developing some project, but i love working with my friends.
+I'm developing some projects, but i love working with my friends.
 1337
 
 ## 📚 Interested
