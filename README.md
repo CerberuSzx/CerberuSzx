@@ -5,7 +5,7 @@ Hello I'm CerberuS.
 I'm developing some projects, but i love working with my friends.
 1337
 
-## 📚 Interested
+## 📚 Languages
 
 <code><img height="65" src="https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/c593aca2cd1ef5fb9d286c154ddf4342c963e0b2/31/cpp.svg"></code>
 <code><img height="65" src="https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/main/31/js.png"></code>
