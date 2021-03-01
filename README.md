@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hey There 👋
+
+## About me
+Hello I'm CerberuS.
+I'm developing some project, but i love working with my friends.
+
+## 📚 Interested
+
+<code><img height="75" src=""></code>
+
+
+## 📚 How to reach me
+[Discord: ]()
+
+## 📫 How to Reach Me
+
 
 <!--
-**CerberuSzx/CerberuSzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
