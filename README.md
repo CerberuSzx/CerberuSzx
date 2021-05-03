@@ -17,7 +17,7 @@ I'm developing some projects, but i love working with my friends.
 <code><img height="65" src="https://raw.githubusercontent.com/CerberuSzx/CerberuSzx/650b52133255d1e9ce79b24d787b9494efd8c15a/31/vs2019%20(1).svg"></code>
 
 ## 📫 How to reach me
-Discord: CerberuS#9198
+Discord: Cerberus#9198
 
 <!--
 
